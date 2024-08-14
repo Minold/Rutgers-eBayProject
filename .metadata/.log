@@ -1,0 +1,16 @@
+!SESSION 2024-04-14 19:16:44.125 -----------------------------------------------
+eclipse.buildId=4.31.0.20240307-1200
+java.version=17.0.4.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product -keyring /Users/minyoungchung/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.jee.product -keyring /Users/minyoungchung/.eclipse_keyring
+
+!ENTRY org.eclipse.emf.ecore 2 0 2024-04-14 19:16:46.892
+!MESSAGE Both 'org.eclipse.jst.j2ee.core' and 'org.eclipse.jst.j2ee.core' register a package for 'application.xmi'
+
+!ENTRY ch.qos.logback.classic 1 0 2024-04-14 19:16:47.239
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-04-14 19:16:59.174
+!MESSAGE Logback config file: /Users/minyoungchung/Desktop/cs336group33/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.0.20240217-1525.xml
